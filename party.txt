@@ -1,4 +1,4 @@
 TODO
 Spiele: Ana, Bob
-Trinken: Ana
+Trinken: Ana, Bob
 Snacks:
